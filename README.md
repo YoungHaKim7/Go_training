@@ -23,6 +23,7 @@ https://github.com/golang/tools
 
 # Go LSP Server
 
+- LSP 설치하기 https://pkg.go.dev/golang.org/x/tools/gopls#section-readme
 
 - https://github.com/golang/tools/tree/master/gopls
 
