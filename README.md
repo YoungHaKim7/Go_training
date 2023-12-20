@@ -9,10 +9,20 @@ https://go.dev/doc/tutorial/getting-started
 
 ```
 
-  - go_lang
-  - go.work
-  - tools  
+- go.work // go version 관리
+- tools  // LSP관련자료
 
+// 작업공간 workspace
+- go_lang
+├── Go_training
+│   ├── 01_Go_Tutorial
+│   │   ├── 01_Hello_Go
+│   │   │   ├── main.go
+│   │   │   └── README.md
+│   │   └── README.md
+│   └── README.md
+└── test_go
+    └── main.go
 
 
 ```
