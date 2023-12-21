@@ -1,7 +1,7 @@
 # Go_training
 
 <p align="center">
-  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" />  
+  <img width=150px src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" />  
 </p>
 
 
