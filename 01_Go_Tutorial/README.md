@@ -7,7 +7,12 @@ https://go.dev/doc/tutorial/getting-started
  
   - Go by Example
     - https://gobyexample.com/
-  
+
+  - Module
+    - https://go.dev/doc/tutorial/create-module
+
+  - Tutorial 종합적으로 잘 정리됨.
+    - https://go.dev/doc/tutorial/
 
 
 # vgo-tour
