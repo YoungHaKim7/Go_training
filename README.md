@@ -1,6 +1,7 @@
 # Go_training
 
 <p align="center">
+  <img width=160px src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/8b4f734b-d251-467a-8dc5-58104d2aa38b" />
   <img width=150px src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" />  
 </p>
 
