@@ -8,7 +8,7 @@
 
 # Link
 
-- test
+- <a href="https://github.com/YoungHaKim7/Go_training#gitignore-go-lang-top">.gitignore(Go Lang)넣기</a>
 
 # Tutorial (Go)
 
