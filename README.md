@@ -57,7 +57,7 @@ https://github.com/golang/tools
 
 https://github.com/golang/tools/blob/master/gopls/doc/workspace.md
 
-# ```.gitignore``` Go Lang[[Top[🔝]]](#link)
+# ```.gitignore``` Go Lang[[🔝]](#link)
 
 ```
 # macOS
