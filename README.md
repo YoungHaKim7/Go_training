@@ -8,7 +8,7 @@
 
 # Link
 
-- <a href="https://github.com/YoungHaKim7/Go_training#gitignore-go-lang-top">.gitignore(Go Lang)넣기</a>
+- [.gitignore(Go Lang)넣기](#gitignore-go-lang-top)
 
 # Tutorial (Go)
 
@@ -57,7 +57,7 @@ https://github.com/golang/tools
 
 https://github.com/golang/tools/blob/master/gopls/doc/workspace.md
 
-# ```.gitignore``` Go Lang <a href="https://github.com/YoungHaKim7/Go_training#go_training">Top[🔝]</a>
+# ```.gitignore``` Go Lang(Top[🔝])[#link]
 
 ```
 # macOS
