@@ -8,7 +8,7 @@
 
 # Link
 
-- [.gitignore(Go Lang)넣기](#gitignore-go-lang-top)
+- [.gitignore(Go Lang)넣기](#gitignore-go-lang)
 
 # Tutorial (Go)
 
